@@ -19,7 +19,7 @@ Trends over time: Analyzing how delays and cancellations fluctuate seasonally or
 Technologies Used
 Data Visualization & Business Intelligence: Tableau
 
-Data Analysis: SQL (for initial data preparation/querying, as indicated in the broader project context)
+Data Analysis: Python (for initial data preparation/querying, as indicated in the broader project context)
 
 Data Source: Real-world airline data (as part of the larger analysis project)
 
@@ -32,7 +32,7 @@ Download the Dashboard:
 
 Navigate to the project repository on GitHub.
 
-Locate the file Dashboard Update Data Drifters (1).twbx.
+Locate the file Flight delays and Cancellation Analysis.twbx.
 
 Click on the file and then click the "Download raw file" button to download it to your computer.
 
