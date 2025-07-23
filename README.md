@@ -43,8 +43,8 @@ Once downloaded, open the .twbx file using your Tableau Desktop application.
 The dashboard will open, allowing you to filter, sort, and interact with the visualizations to gain deeper insights into USA flight delays and cancellations.
 
 Project Files
-Dashboard Update Data Drifters (1).twbx: The interactive Tableau dashboard packaged workbook.
+Flight delays and Cancellation Analysis.twbx: The interactive Tableau dashboard packaged workbook.
 
 View Project Repository: The GitHub repository for the broader USA Flight Delay and Cancellation Analysis project, which includes the underlying code.
 
-Read Article: A Medium article detailing the analysis process and findings.
+Read Article: A Medium article detailing the analysis process and findings. https://medium.com/@nicmtisi/usa-air-travel-performance-delays-and-cancellations-%EF%B8%8F-6518b16c5e1f
