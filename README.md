@@ -45,6 +45,8 @@ The dashboard will open, allowing you to filter, sort, and interact with the vis
 Project Files
 Flight delays and Cancellation Analysis.twbx: The interactive Tableau dashboard packaged workbook.
 
+flights.csv: The raw dataset used for the analysis.
+
 View Project Repository: The GitHub repository for the broader USA Flight Delay and Cancellation Analysis project, which includes the underlying code.
 
-Read Article: A Medium article detailing the analysis process and findings. https://medium.com/@nicmtisi/usa-air-travel-performance-delays-and-cancellations-%EF%B8%8F-6518b16c5e1f
+Read Article: A Medium article detailing the analysis process and findings.
