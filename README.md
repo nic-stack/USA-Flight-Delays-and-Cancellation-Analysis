@@ -19,7 +19,7 @@ Trends over time: Analyzing how delays and cancellations fluctuate seasonally or
 Technologies Used
 Data Visualization & Business Intelligence: Tableau
 
-Data Analysis: Python (for initial data preparation/querying, as indicated in the broader project context)
+Data Analysis: Python (for initial data preparation, as indicated in the broader project context)
 
 Data Source: Real-world airline data (as part of the larger analysis project)
 
@@ -28,19 +28,20 @@ This dashboard is provided as a Tableau Packaged Workbook (.twbx).
 
 To view and interact with this dashboard, you must have Tableau Desktop software installed on your computer.
 
-Download the Dashboard:
+Download the Dashboard File:
 
-Navigate to the project repository on GitHub.
+Due to its size, the dashboard file is hosted on external cloud storage.
 
-Locate the file Flight delays and Cancellation Analysis.twbx.
-
-Click on the file and then click the "Download raw file" button to download it to your computer.
+Click here to download the dashboard file: https://drive.google.com/file/d/1b98B0e3ZuRwate7aDt8QkTPwpDKeM9fm/view?usp=sharing
 
 Open in Tableau Desktop:
 
 Once downloaded, open the .twbx file using your Tableau Desktop application.
 
 The dashboard will open, allowing you to filter, sort, and interact with the visualizations to gain deeper insights into USA flight delays and cancellations.
+
+Note on Large File Size
+The Tableau Packaged Workbook (.twbx) often includes the underlying data, making the file size larger than GitHub's direct upload limits (typically 100 MB per file). To ensure accessibility, the .twbx file is hosted on external cloud storage and linked directly from this README.
 
 Project Files
 Flight delays and Cancellation Analysis.twbx: The interactive Tableau dashboard packaged workbook.
@@ -49,4 +50,4 @@ flights.csv: The raw dataset used for the analysis.
 
 View Project Repository: The GitHub repository for the broader USA Flight Delay and Cancellation Analysis project, which includes the underlying code.
 
-Read Article: A Medium article detailing the analysis process and findings.
+Read Article: [A Medium article detailing the analysis process and findings.](https://medium.com/@nicmtisi/usa-air-travel-performance-delays-and-cancellations-%EF%B8%8F-6518b16c5e1f)
