@@ -32,7 +32,7 @@ Download the Dashboard File:
 
 Due to its size, the dashboard file is hosted on external cloud storage.
 
-[Click here to download the dashboard file.] (https://drive.google.com/file/d/1b98B0e3ZuRwate7aDt8QkTPwpDKeM9fm/view?usp=sharing)
+[Click here to download the dashboard file.](https://drive.google.com/file/d/1b98B0e3ZuRwate7aDt8QkTPwpDKeM9fm/view?usp=sharing)
 
 Open in Tableau Desktop:
 
